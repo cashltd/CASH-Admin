@@ -1,0 +1,1 @@
+Thank you. Credit has been applied to this account!

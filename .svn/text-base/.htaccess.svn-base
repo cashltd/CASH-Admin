@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule noview/(.*)/(.*)/$ /index.php?noview=TRUE&cl=$1&fn=$2 [L]
+RewriteRule (.*)/(.*)/id/(.*)/$ /index.php?cl=$1&fn=$2&id=$3 [L]
+RewriteRule (.*)/(.*)/$ /index.php?cl=$1&fn=$2 [L]
+RewriteRule sitemap.xml$ /index.php?cl=sitemap&fn=view [L]
+

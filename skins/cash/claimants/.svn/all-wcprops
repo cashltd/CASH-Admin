@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/admin-cash-ltd-co-uk/!svn/ver/20/trunk/skins/cash/claimants
+END
+freshdata.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/admin-cash-ltd-co-uk/!svn/ver/20/trunk/skins/cash/claimants/freshdata.tpl
+END
+history.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/admin-cash-ltd-co-uk/!svn/ver/20/trunk/skins/cash/claimants/history.tpl
+END
+noaddmorefive.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/noaddmorefive.tpl
+END
+newdata.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/claimants/newdata.tpl
+END
+assigncsvdone.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/admin-cash-ltd-co-uk/!svn/ver/8/trunk/skins/cash/claimants/assigncsvdone.tpl
+END
+goassigncsv.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/admin-cash-ltd-co-uk/!svn/ver/14/trunk/skins/cash/claimants/goassigncsv.tpl
+END
+olddata.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/claimants/olddata.tpl
+END
+noaddhotkey.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/noaddhotkey.tpl
+END
+map.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/map.js
+END
+addhotkey.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/addhotkey.tpl
+END
+stats.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/stats.tpl
+END
+totalview.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/admin-cash-ltd-co-uk/!svn/ver/3/trunk/skins/cash/claimants/totalview.tpl
+END
+distribution.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/claimants/distribution.tpl
+END

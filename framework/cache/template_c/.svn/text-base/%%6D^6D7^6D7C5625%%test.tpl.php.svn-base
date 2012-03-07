@@ -1,0 +1,67 @@
+<?php /* Smarty version 2.6.14, created on 2010-06-17 14:53:48
+         compiled from test.tpl */ ?>
+<script>
+
+		var jsonnumber = 0;
+		var json;
+
+
+
+	function linkContent() <?php echo '{'; ?>
+
+		addContent(jsonnumber);
+		jsonnumber++;
+	<?php echo '}'; ?>
+
+
+
+
+
+	function addContent(id) <?php echo '{'; ?>
+
+		var rand_id = 'newNews_'+json[id].id;
+		$('news_list').insert(<?php echo '{'; ?>
+top: '<li id="'+rand_id+'">' + json[id].action + '</li>'<?php echo '}'; ?>
+);
+		new Effect.Highlight(rand_id);
+	<?php echo '}'; ?>
+
+
+
+
+
+	function getContent() <?php echo '{'; ?>
+
+
+
+		new Ajax.Request('http://admin.cash-ltd.co.uk/api/newsfeed/', <?php echo '{'; ?>
+
+ 		 onSuccess: function(transport) <?php echo '{'; ?>
+
+ 		   json = transport.responseText.evalJSON();
+
+ 		 <?php echo '}'; ?>
+
+		<?php echo '}'; ?>
+);
+
+
+
+	<?php echo '}'; ?>
+
+
+</script>
+
+
+<ul id="news_list">
+
+	<li>Test Item One</li>
+	<li>Test Item Two</li>
+	<li>Test Item Three</li>
+
+</ul>
+
+
+<input type="button" value="Get Content" onClick="getContent();">
+<input type="button" Value="Show Content" onClick="linkContent();">
+

@@ -1,0 +1,123 @@
+
+.rollingAlertContainer
+	{
+		position: fixed;
+		
+		bottom: 10px;
+		right: 10px;
+		width: 300px;
+		
+		font-family: helvetica;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+.rollingAlertContainerDiv
+	{
+		position: absolute;
+
+		bottom: 10px;
+		right: 10px;
+		width: 300px;
+
+		font-family: helvetica;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	
+.rollingAlert
+	{
+		display: block;
+		background-color: black;
+		background-color: RGBA(0,0,0,0.85);
+		border: 1px solid black;
+		border: 1px solid RGBA(0,0,0,0.5);
+		color: white;
+		
+		border-radius: 7px;
+		-moz-border-radius: 7px;
+		-webkit-box-shadow: 0 0 2px white;
+		-moz-box-shadow: 0 0 2px white;
+		padding: 10px;
+		margin: 5px;
+		
+		text-align: center;
+		line-height: 15px;
+	}
+	.rollingAlert img
+		{
+			float: right;
+			margin-left: 10px;
+			height: 30px;
+		}
+
+
+.facebookAlert
+	{
+		display: block;
+		background-color: #627aad;
+		background-color: RGBA(98,122,173,1);
+		border: 1px solid #3b5998;
+		border: 1px solid RGBA(59,89,152,0.1);
+		color: white;
+		text-align: center;
+		line-height: 15px;
+
+		border-radius: 7px;
+		-moz-border-radius: 7px;
+		-webkit-box-shadow: 0 0 4px white;
+		-moz-box-shadow: 0 0 4px white;
+		padding: 10px;
+		margin: 5px;
+		height: 30px;
+	}
+
+	.facebookAlert img
+		{
+			float: right;
+			margin-left: 10px;
+		}
+
+	.facebookAlert a
+		{
+			color: #dcdbdb;
+			text-decoration: none;			
+		}
+
+	.facebookAlert a:hover
+		{
+			color: #f0f0f0;
+			text-decoration: underline;			
+		}
+
+.errorMessage
+	{
+		display: block;
+		background-color: red;
+		border: 1px solid maroon;
+		color: white;
+		font-family: ;
+
+		border-radius: 10px;
+		-moz-border-radius: 10px;
+		-webkit-box-shadow: 0 0 2px black;
+		-moz-box-shadow: 0 0 2px black;
+		padding: 10px;
+		margin: 3px;
+	}
+
+.blueBox
+{
+	display: block;
+	background-color: blue;
+	border: 1px solid navy;
+	color: white;
+	font-family: ;
+
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-box-shadow: 0 0 2px black;
+	-moz-box-shadow: 0 0 2px black;
+	padding: 10px;
+	margin: 3px;
+}

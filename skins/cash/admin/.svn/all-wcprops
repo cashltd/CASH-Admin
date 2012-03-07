@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/admin
+END
+upload_claimant_csv.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/admin/upload_claimant_csv.tpl
+END
+upload_claimant_csv_done.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/admin/upload_claimant_csv_done.tpl
+END
+userstats.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/admin/userstats.tpl
+END
+messagesent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/admin/messagesent.tpl
+END
+sendmessage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/admin-cash-ltd-co-uk/!svn/ver/6/trunk/skins/cash/admin/sendmessage.tpl
+END
+userstatsshow.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/admin-cash-ltd-co-uk/!svn/ver/2/trunk/skins/cash/admin/userstatsshow.tpl
+END

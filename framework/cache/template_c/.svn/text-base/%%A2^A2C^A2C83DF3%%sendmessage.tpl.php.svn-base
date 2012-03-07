@@ -1,0 +1,35 @@
+<?php /* Smarty version 2.6.14, created on 2010-09-20 10:06:29
+         compiled from admin/sendmessage.tpl */ ?>
+<form id='addHotkeyForm' method='post' action='<?php echo $this->_tpl_vars['HomeUrl']; ?>
+admin/sendnow/'><div class='nowarning'>
+
+	<div class="addusermiddle">
+	
+		<div class="adduseritem"><div class="b">To</div>
+		
+			<SELECT name="staff">
+					<OPTION VALUE="0">All Staff</OPTION>
+				<?php $_from = $this->_tpl_vars['staff']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['item']):
+?>
+					<OPTION VALUE="<?php echo $this->_tpl_vars['item']['id']; ?>
+"><?php echo $this->_tpl_vars['item']['fname']; ?>
+ <?php echo $this->_tpl_vars['item']['sname']; ?>
+</OPTION>
+				<?php endforeach; endif; unset($_from); ?>
+			</SELECT>
+			
+		</div>
+
+		<div class="adduseritem"><div class="b">Title</div><input type="text" name="title"></div>
+		<div class="adduseritem"><div class="a">Message</div><textarea name="message"></textarea></div>
+		<div>
+		
+		<div class="adduseritem"><div class="b">Show popup alert?</div><input type="checkbox" name="alert" class="checkbox"></div>
+		
+		</div>
+		
+		
+		</div>
+
+<p><div class="loginitem2"><input type='Submit' value='Send Message' class="login" /></div></p></div></form>

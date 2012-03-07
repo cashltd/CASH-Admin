@@ -1,0 +1,21 @@
+<?php /* Smarty version 2.6.14, created on 2008-05-14 11:22:07
+         compiled from show_gold.tpl */ ?>
+<table class="gold" width="100%">
+
+	<tr>
+		<th><?php echo $this->_tpl_vars['name']; ?>
+</th>
+	</tr>
+	<tr>
+		<td><?php echo $this->_tpl_vars['address1']; ?>
+, <?php echo $this->_tpl_vars['address2']; ?>
+, <?php echo $this->_tpl_vars['town']; ?>
+, <?php echo $this->_tpl_vars['county']; ?>
+, <?php echo $this->_tpl_vars['postcode']; ?>
+<br /><?php echo $this->_tpl_vars['telephone']; ?>
+</td>
+	</tr>
+	<tr>
+		<td align=right>+ My Wedding</td>
+	</tr>
+</table><br />

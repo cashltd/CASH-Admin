@@ -1,0 +1,67 @@
+<?php	// Legal Bid administration Module
+		// Written by Simon Skinner
+		// First Revision 01.10.08
+
+		class users {
+			
+			const folder = "users/";
+			
+
+			public function changePassword() {
+				GLOBAL $page;
+				
+				$page->addPage(self::folder . "changepassword.tpl");
+			}
+			
+			public function goChangePassword() {
+				
+				$sql = "UPDATE admin_login SET password='".MD5(safe::post('newpassword'))."' WHERE id='".(int)login::getUserID()."' LIMIT 1 ;";
+
+				$newdatabase = new database();
+				$newdatabase->query($sql);
+
+				
+				setcookie("password", md5(safe::post("newpassword")), time()+(3600*12), "/");	
+				
+				ajax::hideAnnounce();
+				
+			}
+			
+			public function adduser() {
+				GLOBAL $page;
+				
+				$page->addPage(self::folder . "adduser.tpl");
+				$page->fullReplace("[-currentmodule-]", "User Options");
+				$page->fullReplace("[-currentmodulelink-]", "".HomeUrl."users/options/");
+			}
+			
+			public function options() {
+				GLOBAL $page;
+				
+				$page->addHtml("<center>");
+				
+				
+					if (login::getUserRank() == 3) {
+						$page->addHtml("<a href='".HomeUrl."admin/sendmessage/'>Send User a Message</a><br />");
+						$page->addHtml("<a href='".HomeUrl."admin/userstats/'>View User Stats</a><br />");
+						$page->addHtml("<a href='".HomeUrl."users/viewedit/'>View / Edit User</a><br />");
+						$page->addHtml("<a href='".HomeUrl."users/adduser/'>Add User</a><br />");
+						$page->addHtml("<a href='".HomeUrl."users/deleteuser/'>Delete User</a><br />");
+					}
+					
+					
+					$page->addHtml("<div style='text-align: center; font-size: 9px; width: 70px; height: 100px; float: left; margin-right: 5px; margin-left: 5px;'><a href='http://hotkey.nationwideaccesstosolicitors.co.uk/sendclaim.php' target='_blank'><img src='".HomeUrl."skins/".DEFAULTSKIN."/images/"."send.png' border='0'><br />Send Claim Form</a></div>");
+					
+					$page->addHtml("<div style='text-align: center; font-size: 9px; width: 70px; height: 100px; float: left; margin-right: 5px; margin-left: 5px;'><a href='javascript:;' onClick='changePassword();'><img src='".HomeUrl."skins/".DEFAULTSKIN."/images/"."password.png' border='0'><br />Change Your Password</a></div>");
+					
+				$page->addHtml("</center>");
+				
+				
+				$page->fullReplace("[-currentmodule-]", "Legalbid Options");
+				$page->fullReplace("[-currentmodulelink-]", "".HomeUrl."legalbid/options/");
+			}
+			
+		}
+
+		// End Class
+?>
