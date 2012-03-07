@@ -1,0 +1,101 @@
+[20-Jan-2012 20:32:02] PHP Fatal error:  Call to a member function labelEx() on a non-object in /home/cashadmi/public_html/protected/views/site/login.php on line 12
+[20-Jan-2012 20:32:02] PHP Fatal error:  Call to a member function labelEx() on a non-object in /home/cashadmi/public_html/protected/views/site/login.php on line 12
+[23-Jan-2012 12:25:30] PHP Parse error:  syntax error, unexpected ';' in /home/cashadmi/public_html/protected/views/solicitorFirm/_form.php on line 87
+[23-Jan-2012 13:06:22] PHP Fatal error:  Call to a member function errorSummary() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/_form.php on line 9
+[23-Jan-2012 13:07:29] PHP Parse error:  syntax error, unexpected '<' in /home/cashadmi/public_html/protected/views/solicitorFirm/create.php on line 8
+[23-Jan-2012 14:52:33] PHP Fatal error:  Call to a member function search() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 16
+[23-Jan-2012 14:53:00] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/cashadmi/framework/web/helpers/CHtml.php on line 1161
+[23-Jan-2012 14:53:13] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/cashadmi/framework/web/helpers/CHtml.php on line 1161
+[23-Jan-2012 14:53:17] PHP Fatal error:  Call to a member function search() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 16
+[23-Jan-2012 14:54:12] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/cashadmi/framework/web/helpers/CHtml.php on line 1161
+[23-Jan-2012 14:54:55] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home/cashadmi/framework/web/helpers/CHtml.php on line 1161
+[23-Jan-2012 14:55:05] PHP Fatal error:  Call to a member function search() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 41
+[23-Jan-2012 14:56:58] PHP Parse error:  syntax error, unexpected '<' in /home/cashadmi/public_html/protected/views/solicitorFirm/_view.php on line 24
+[23-Jan-2012 14:57:02] PHP Parse error:  syntax error, unexpected '<' in /home/cashadmi/public_html/protected/views/solicitorFirm/_view.php on line 24
+[23-Jan-2012 14:59:53] PHP Parse error:  syntax error, unexpected ';' in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 32
+[23-Jan-2012 15:01:09] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 18
+[23-Jan-2012 15:01:11] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/index.php on line 18
+[24-Jan-2012 09:40:14] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:48:15] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:48:15] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:51:26] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:51:29] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:56:31] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:56:33] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:56:43] PHP Fatal error:  Cannot use [] for reading in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 39
+[24-Jan-2012 09:56:55] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:57:01] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:58:00] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:58:04] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:59:04] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 09:59:38] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 10:00:49] PHP Fatal error:  Call to a member function model() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 37
+[24-Jan-2012 10:00:55] PHP Fatal error:  Call to a member function data() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 37
+[24-Jan-2012 10:01:48] PHP Fatal error:  Call to a member function model() on a non-object in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 37
+[24-Jan-2012 10:01:59] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 37
+[24-Jan-2012 10:06:00] PHP Fatal error:  Cannot use [] for reading in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 37
+[24-Jan-2012 11:49:52] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 11:50:54] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[24-Jan-2012 12:10:13] PHP Parse error:  syntax error, unexpected '>' in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[24-Jan-2012 12:10:35] PHP Parse error:  syntax error, unexpected '>' in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[24-Jan-2012 12:10:46] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[24-Jan-2012 12:10:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[25-Jan-2012 15:26:54] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 52
+[25-Jan-2012 15:27:31] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 52
+[25-Jan-2012 15:27:39] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 48
+[26-Jan-2012 19:25:24] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/cashadmi/public_html/protected/views/claimantCampaign/view.php on line 39
+[26-Jan-2012 19:26:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/cashadmi/public_html/protected/views/claimantCampaign/view.php on line 41
+[26-Jan-2012 20:47:21] PHP Parse error:  syntax error, unexpected ';' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 90
+[26-Jan-2012 20:48:12] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 92
+[26-Jan-2012 20:48:33] PHP Parse error:  syntax error, unexpected ';' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 94
+[26-Jan-2012 20:51:18] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:51:30] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:51:33] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:51:34] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:51:34] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:11] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:12] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:12] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:12] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:13] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:13] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:13] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:52:45] PHP Parse error:  syntax error, unexpected ',' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 90
+[26-Jan-2012 20:52:50] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:53:01] PHP Fatal error:  Call to a member function getData() on a non-object in /home/cashadmi/framework/zii/widgets/CBaseListView.php on line 105
+[26-Jan-2012 20:57:49] PHP Parse error:  syntax error, unexpected ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 97
+[26-Jan-2012 21:00:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 103
+[26-Jan-2012 21:02:33] PHP Parse error:  syntax error, unexpected ')' in /home/cashadmi/public_html/protected/models/ClaimantCampaign.php on line 107
+[26-Jan-2012 23:23:20] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 234
+[27-Jan-2012 14:22:15] PHP Parse error:  syntax error, unexpected '}' in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 124
+[27-Jan-2012 14:25:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 227
+[27-Jan-2012 14:25:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 228
+[27-Jan-2012 14:52:48] PHP Parse error:  syntax error, unexpected '<' in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[27-Jan-2012 15:06:10] PHP Fatal error:  Call to a member function solicitorContractPayment() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:35:20] PHP Fatal error:  Call to a member function solicitorContractPayments() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:35:28] PHP Fatal error:  Call to a member function count() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:41:09] PHP Fatal error:  Call to a member function contractTotal() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:41:27] PHP Fatal error:  Call to a member function contractTotal() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:41:29] PHP Fatal error:  Call to a member function contractTotal() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 132
+[27-Jan-2012 15:48:06] PHP Fatal error:  Cannot use [] for reading in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 134
+[27-Jan-2012 15:48:47] PHP Fatal error:  Call to a member function contractTotal() on a non-object in /home/cashadmi/public_html/protected/models/SolicitorFirm.php on line 134
+[30-Jan-2012 12:57:46] PHP Parse error:  syntax error, unexpected ',' in /home/cashadmi/public_html/protected/controllers/SolicitorContractDetailsController.php on line 200
+[30-Jan-2012 12:57:54] PHP Parse error:  syntax error, unexpected ',' in /home/cashadmi/public_html/protected/controllers/SolicitorContractDetailsController.php on line 200
+[30-Jan-2012 14:44:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/public_html/protected/controllers/SolicitorContractDetailsController.php on line 172
+[30-Jan-2012 14:54:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/cashadmi/public_html/protected/controllers/SolicitorContractDetailsController.php on line 280
+[06-Feb-2012 15:34:50] PHP Fatal error:  Cannot use [] for reading in /home/cashadmi/public_html/protected/models/SolicitorContractDetails.php on line 88
+[06-Feb-2012 16:25:31] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/cashadmi/public_html/protected/models/SolicitorContractDetails.php on line 112
+[06-Feb-2012 19:45:34] PHP Fatal error:  Cannot redeclare SolicitorContractDetails::contractTotal() in /home/cashadmi/public_html/protected/models/SolicitorContractDetails.php on line 148
+[06-Feb-2012 20:15:18] PHP Parse error:  syntax error, unexpected ',' in /home/cashadmi/public_html/protected/models/SolicitorContractDetails.php on line 128
+[06-Feb-2012 20:15:31] PHP Parse error:  syntax error, unexpected ',' in /home/cashadmi/public_html/protected/models/SolicitorContractDetails.php on line 128
+[06-Feb-2012 20:52:28] PHP Parse error:  syntax error, unexpected ';' in /home/cashadmi/public_html/protected/views/solicitorContractDetails/view.php on line 74
+[06-Feb-2012 20:55:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[06-Feb-2012 20:55:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cashadmi/framework/base/CComponent.php(607) : eval()'d code on line 1
+[07-Feb-2012 13:34:22] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE or '$' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 95
+[07-Feb-2012 14:27:13] PHP Parse error:  syntax error, unexpected '<' in /home/cashadmi/public_html/protected/views/solicitorFirm/view.php on line 2
