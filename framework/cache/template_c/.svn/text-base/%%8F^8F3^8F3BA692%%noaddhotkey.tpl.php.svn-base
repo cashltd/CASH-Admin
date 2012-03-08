@@ -1,9 +1,0 @@
-<?php /* Smarty version 2.6.14, created on 2010-08-02 09:17:10
-         compiled from claimants/noaddhotkey.tpl */ ?>
-<form id='addHotkeyForm' method='post' action='<?php echo $this->_tpl_vars['HomeUrl']; ?>
-ajax/claimants_goSubmitAddHotkey/'><div class='nowarning'>
-
-
-<p>There are currently no new Claimants available. Please inform an administrator!</p>
-
-<p><div class="loginitem2"><input type='button' value='Cancel' class="login" onclick='Modalbox.hide()' /></div></p></div></form>
